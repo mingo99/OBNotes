@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "306acb41484ba4e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9048c24833cd74bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88d4b416759f2085",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/基础语法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9640fc64324a9174",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/IDM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a296279a36cb9d3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "26bb9a49e176ce26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "904317b6a16e9b33",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "03be86262f213488",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c26bed43958dd2d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7c9b0893fbe0ae85",
+    "type": "split",
+    "children": [
+      {
+        "id": "0df920609b51f028",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d0b8f3bb8091333",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C++/基础语法.md"
+              }
+            }
+          },
+          {
+            "id": "331245f714a9574b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "698e71055a712faa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C++/基础语法.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25d84b4869281f7d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C++/基础语法.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "88d4b416759f2085",
+  "lastOpenFiles": [
+    "C++/命名空间.md",
+    "C++/基础语法.md",
+    "Vim/寄存器.md",
+    "C++",
+    "Tools/IDM.md",
+    "Tools",
+    "asset",
+    "Pasted image 20240830215404.png",
+    "Pasted image 20240830.md",
+    "Attach",
+    "新建文件夹",
+    "Pasted image 20240830214457.png",
+    "Pasted image 20240830214426.png",
+    "Vim/attach/Pasted image 20240830214341.png",
+    "Vim/attach",
+    "Pasted image 20240830214323.png",
+    "Pasted image 20240830214235.png",
+    "Vim",
+    "Welcome.md",
+    "Weread.md"
+  ]
+}
