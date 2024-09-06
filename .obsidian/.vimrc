@@ -18,9 +18,12 @@ nmap <C-o> :back
 exmap forward obcommand app:go-forward
 nmap <C-i> :forward
 
+exmap surround_bold surround ** ** 
+exmap surround_italic surround * * 
 exmap surround_wiki surround [[ ]]
 exmap surround_double_quotes surround " "
 exmap surround_single_quotes surround ' '
+exmap surround_double_equals surround == ==
 exmap surround_backticks surround ` `
 exmap surround_brackets surround ( )
 exmap surround_square_brackets surround [ ]
@@ -29,7 +32,12 @@ exmap surround_curly_brackets surround { }
 " NOTE: must use 'map' and not 'nmap'
 map [[ :surround_wiki
 nunmap s
+nunmap S
 vunmap s
+vunmap S
+map s* :surround_italic
+map S* :surround_bold
+map s= :surround_double_equals
 map s" :surround_double_quotes
 map s' :surround_single_quotes
 map s` :surround_backticks
@@ -37,7 +45,7 @@ map sb :surround_brackets
 map s( :surround_brackets
 map s) :surround_brackets
 map s[ :surround_square_brackets
-map s[ :surround_square_brackets
+map s] :surround_square_brackets
 map s{ :surround_curly_brackets
 map s} :surround_curly_brackets
 

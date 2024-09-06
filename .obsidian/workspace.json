@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/基础语法.md",
+                "file": "C++/对象和类.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/IDM.md",
+                "file": "C++/C++概览.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a9f80fb713d3c88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/命名空间.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/基础语法.md"
+                "file": "C++/对象和类.md"
               }
             }
           },
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/基础语法.md",
+                "file": "C++/对象和类.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/基础语法.md",
+                "file": "C++/对象和类.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,10 +172,19 @@
   "active": "88d4b416759f2085",
   "lastOpenFiles": [
     "C++/命名空间.md",
-    "C++/基础语法.md",
+    "C++/C++概览.md",
+    "C++/对象和类.md",
+    "C++/结构体、共用体和枚举.md",
+    "C++/指针.md",
+    "asset/Pasted image 20240906222746.png",
+    "asset/Pasted image 20240906222152.png",
+    "asset/Pasted image 20240906222140.png",
+    "asset/Pasted image 20240906222128.png",
+    "C++/内存模型.md",
+    "asset/Pasted image 20240902230644.png",
+    "Tools/IDM.md",
     "Vim/寄存器.md",
     "C++",
-    "Tools/IDM.md",
     "Tools",
     "asset",
     "Pasted image 20240830215404.png",
@@ -175,7 +196,6 @@
     "Vim/attach/Pasted image 20240830214341.png",
     "Vim/attach",
     "Pasted image 20240830214323.png",
-    "Pasted image 20240830214235.png",
     "Vim",
     "Welcome.md",
     "Weread.md"

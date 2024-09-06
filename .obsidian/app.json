@@ -2,5 +2,6 @@
   "vimMode": true,
   "showIndentGuide": false,
   "attachmentFolderPath": "asset",
-  "promptDelete": false
+  "promptDelete": false,
+  "readableLineLength": true
 }
