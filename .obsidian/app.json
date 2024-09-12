@@ -3,5 +3,8 @@
   "showIndentGuide": false,
   "attachmentFolderPath": "asset",
   "promptDelete": false,
-  "readableLineLength": true
+  "readableLineLength": false,
+  "tabSize": 2,
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true
 }

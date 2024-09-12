@@ -1,4 +1,11 @@
 {
   "accentColor": "",
-  "cssTheme": "Blue Topaz"
+  "cssTheme": "Border",
+  "interfaceFontFamily": "Microsoft YaHei UI",
+  "textFontFamily": "Times New Roman,Microsoft Sans Serif",
+  "monospaceFontFamily": "JetBrainsMonoNL Nerd Font",
+  "baseFontSize": 15,
+  "enabledCssSnippets": [
+    "fileicon"
+  ]
 }

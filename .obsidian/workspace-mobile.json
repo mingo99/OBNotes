@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "1eb609036ff89ae5",
+    "type": "split",
+    "children": [
+      {
+        "id": "488a78c8e81a1e9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "463660a58efeadd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/命名空间.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1432c83bfd3db1c3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "80e2f6a725780ad1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2b2c1a0e1cf6eb34",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "495bd4856804bde7",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "66206179ff677ed2",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0,
+    "pinned": true
+  },
+  "right": {
+    "id": "2486ff05d749f28d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f4d2bbd816061d9a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "C++/命名空间.md",
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": true,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ad795b994bb5a507",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "C++/命名空间.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f49f659907f189dd",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "C++/命名空间.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 2,
+    "pinned": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-git:Open Git source control": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "463660a58efeadd6",
+  "lastOpenFiles": [
+    "C++/结构体、共用体和枚举.md",
+    "C++/内存模型.md",
+    "未命名.canvas",
+    "Obsidian/List styles.md",
+    "Obsidian",
+    "C++/命名空间.md",
+    "C++/对象和类.md",
+    "C++/C++概览.md",
+    "C++/指针.md",
+    "C++/函数.md",
+    "C++",
+    "Vim/寄存器.md",
+    "Vim",
+    "Tools/IDM.md",
+    "Tools"
+  ]
+}

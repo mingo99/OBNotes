@@ -8,36 +8,44 @@
         "type": "tabs",
         "children": [
           {
-            "id": "88d4b416759f2085",
+            "id": "26eafb63aef94a58",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "4708629a0ae8fa19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/指针.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03d4fdae61308bf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/List styles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2033c4cd209499ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "C++/对象和类.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9640fc64324a9174",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/C++概览.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a9f80fb713d3c88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/命名空间.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,6 +75,14 @@
             }
           },
           {
+            "id": "48c3301b6185be65",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
             "id": "03be86262f213488",
             "type": "leaf",
             "state": {
@@ -89,7 +105,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -104,13 +121,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9d0b8f3bb8091333",
+            "id": "8b6f1b45c17c882e",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "C++/对象和类.md"
-              }
+              "state": {}
             }
           },
           {
@@ -119,7 +134,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -130,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/对象和类.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +161,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/对象和类.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,22 +180,30 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88d4b416759f2085",
+  "active": "26eafb63aef94a58",
   "lastOpenFiles": [
+    "C++/函数.md",
     "C++/命名空间.md",
+    "未命名.canvas",
+    "C++/指针.md",
     "C++/C++概览.md",
+    "Obsidian/List styles.md",
     "C++/对象和类.md",
     "C++/结构体、共用体和枚举.md",
-    "C++/指针.md",
-    "asset/Pasted image 20240906222746.png",
-    "asset/Pasted image 20240906222152.png",
-    "asset/Pasted image 20240906222140.png",
-    "asset/Pasted image 20240906222128.png",
     "C++/内存模型.md",
+    "未命名.md",
+    "Obsidian",
+    "asset/Pasted image 20240906222140.png",
+    "asset/Pasted image 20240906222152.png",
+    "asset/Pasted image 20240906222746.png",
+    "asset/Pasted image 20240906222128.png",
     "asset/Pasted image 20240902230644.png",
+    "2024-09-11.md",
     "Tools/IDM.md",
     "Vim/寄存器.md",
     "C++",
