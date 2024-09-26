@@ -11,8 +11,12 @@
             "id": "26eafb63aef94a58",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "C++/函数.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -45,13 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/对象和类.md",
+                "file": "Git/文件.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Git/文件.md"
+              }
             }
           },
           {
@@ -145,6 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Git/文件.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,6 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Git/文件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,16 +194,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26eafb63aef94a58",
+  "active": "2033c4cd209499ef",
   "lastOpenFiles": [
-    "C++/函数.md",
+    "Git/移除文件.md",
+    "Git/文件.md",
+    "Git/Git Diff.md",
+    "Git/忽略文件.md",
+    "asset",
+    "Pasted image 20240926233652.png",
     "C++/命名空间.md",
-    "未命名.canvas",
-    "C++/指针.md",
-    "C++/C++概览.md",
-    "Obsidian/List styles.md",
     "C++/对象和类.md",
+    "Git/标签.md",
+    "Git/Cherry Pick.md",
+    "Vim/Marker.md",
+    "Git",
+    "Vim/未命名.md",
+    "Vim/宏.md",
+    "Vim/寄存器.md",
+    "Tools/IDM.md",
+    "Obsidian/List styles.md",
+    "C++/指针.md",
     "C++/结构体、共用体和枚举.md",
+    "C++/函数.md",
+    "C++/C++概览.md",
+    "未命名.canvas",
     "C++/内存模型.md",
     "未命名.md",
     "Obsidian",
@@ -204,11 +227,8 @@
     "asset/Pasted image 20240906222128.png",
     "asset/Pasted image 20240902230644.png",
     "2024-09-11.md",
-    "Tools/IDM.md",
-    "Vim/寄存器.md",
     "C++",
     "Tools",
-    "asset",
     "Pasted image 20240830215404.png",
     "Pasted image 20240830.md",
     "Attach",
@@ -217,7 +237,6 @@
     "Pasted image 20240830214426.png",
     "Vim/attach/Pasted image 20240830214341.png",
     "Vim/attach",
-    "Pasted image 20240830214323.png",
     "Vim",
     "Welcome.md",
     "Weread.md"

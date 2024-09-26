@@ -29,5 +29,8 @@
   "Editor@@line-hover-indicator": true,
   "Mobile@@card-layout-pad-open": false,
   "Appearance-light@@Active-states-file-explorer-select-light": "activated-file-default-light",
-  "Appearance-light@@card-highlight-light": false
+  "Appearance-light@@card-highlight-light": false,
+  "Editor@@h4-color-select": "h4-color-designated",
+  "Editor@@h5-color-select": "h5-color-designated",
+  "Editor@@h6-color-select": "h6-color-designated"
 }
