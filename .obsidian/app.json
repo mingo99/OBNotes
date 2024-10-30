@@ -6,5 +6,6 @@
   "readableLineLength": false,
   "tabSize": 2,
   "useMarkdownLinks": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview"
 }

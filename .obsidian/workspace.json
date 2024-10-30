@@ -16,7 +16,9 @@
                 "file": "C++/函数.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "函数"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "C++/指针.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "指针"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "Obsidian/List styles.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "List styles"
             }
           },
           {
@@ -49,14 +55,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/文件.md",
+                "file": "Vim/宏.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "宏"
+            }
+          },
+          {
+            "id": "0931be836b142029",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -76,7 +94,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -84,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -99,7 +121,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -107,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ],
@@ -131,8 +157,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/文件.md"
-              }
+                "file": "Vim/宏.md"
+              },
+              "icon": "lucide-list",
+              "title": "宏 的大纲"
             }
           },
           {
@@ -143,7 +171,9 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -152,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/文件.md",
+                "file": "Vim/宏.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +190,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "宏 的反向链接列表"
             }
           },
           {
@@ -169,10 +201,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/文件.md",
+                "file": "Vim/宏.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "宏 的出链列表"
             }
           }
         ]
@@ -194,8 +228,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2033c4cd209499ef",
+  "active": "0931be836b142029",
   "lastOpenFiles": [
+    "Shell/Source命令.md",
+    "Vim/宏.md",
+    "Shell",
+    "Vim/寄存器.md",
+    "Vim/Marker.md",
+    "C++/C++概览.md",
+    "C++/函数.md",
     "Git/移除文件.md",
     "Git/文件.md",
     "Git/Git Diff.md",
@@ -206,17 +247,12 @@
     "C++/对象和类.md",
     "Git/标签.md",
     "Git/Cherry Pick.md",
-    "Vim/Marker.md",
     "Git",
     "Vim/未命名.md",
-    "Vim/宏.md",
-    "Vim/寄存器.md",
     "Tools/IDM.md",
     "Obsidian/List styles.md",
     "C++/指针.md",
     "C++/结构体、共用体和枚举.md",
-    "C++/函数.md",
-    "C++/C++概览.md",
     "未命名.canvas",
     "C++/内存模型.md",
     "未命名.md",

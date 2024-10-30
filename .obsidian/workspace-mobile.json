@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/命名空间.md",
-                "mode": "source",
+                "file": "Vim/宏.md",
+                "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "宏"
             }
           }
         ]
@@ -35,7 +37,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
         }
       },
       {
@@ -50,7 +54,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
         }
       },
       {
@@ -61,7 +67,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
         }
       },
       {
@@ -69,7 +77,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
         }
       }
     ],
@@ -86,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "C++/命名空间.md",
+            "file": "Vim/宏.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,7 +104,9 @@
             "searchQuery": "",
             "backlinkCollapsed": true,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
         }
       },
       {
@@ -103,10 +115,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "C++/命名空间.md",
+            "file": "Vim/宏.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "出链"
         }
       },
       {
@@ -115,12 +129,24 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "C++/命名空间.md"
-          }
+            "file": "Vim/宏.md"
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      },
+      {
+        "id": "ed37e8a78c847640",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
         }
       }
     ],
-    "currentTab": 2,
+    "currentTab": 3,
     "pinned": true
   },
   "left-ribbon": {
@@ -137,20 +163,22 @@
   },
   "active": "463660a58efeadd6",
   "lastOpenFiles": [
-    "C++/结构体、共用体和枚举.md",
-    "C++/内存模型.md",
-    "未命名.canvas",
-    "Obsidian/List styles.md",
-    "Obsidian",
-    "C++/命名空间.md",
-    "C++/对象和类.md",
-    "C++/C++概览.md",
-    "C++/指针.md",
-    "C++/函数.md",
-    "C++",
     "Vim/寄存器.md",
-    "Vim",
+    "C++/C++概览.md",
+    "C++/内存模型.md",
+    "C++/命名空间.md",
+    "C++/函数.md",
+    "C++/对象和类.md",
+    "Vim/Marker.md",
+    "Vim/宏.md",
     "Tools/IDM.md",
+    "Obsidian/List styles.md",
+    "C++/结构体、共用体和枚举.md",
+    "未命名.canvas",
+    "Obsidian",
+    "C++/指针.md",
+    "C++",
+    "Vim",
     "Tools"
   ]
 }
