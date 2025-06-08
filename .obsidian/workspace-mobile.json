@@ -11,14 +11,17 @@
             "id": "463660a58efeadd6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Vim/宏.md",
-                "mode": "preview",
-                "source": false
+                "file": "未命名 1.canvas",
+                "viewState": {
+                  "x": 85,
+                  "y": -126,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "宏"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名 1"
             }
           }
         ]
@@ -36,7 +39,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "文件列表"
@@ -141,8 +145,8 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
+          "icon": "lucide-file",
+          "title": "插件不再活动"
         }
       }
     ],
@@ -151,8 +155,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "oz-clear-unused-images:Clear Unused Images": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -163,18 +165,20 @@
   },
   "active": "463660a58efeadd6",
   "lastOpenFiles": [
+    "C++/对象和类.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "Vim/宏.md",
+    "Vim/Motion.md",
     "Vim/寄存器.md",
     "C++/C++概览.md",
     "C++/内存模型.md",
     "C++/命名空间.md",
     "C++/函数.md",
-    "C++/对象和类.md",
     "Vim/Marker.md",
-    "Vim/宏.md",
     "Tools/IDM.md",
     "Obsidian/List styles.md",
     "C++/结构体、共用体和枚举.md",
-    "未命名.canvas",
     "Obsidian",
     "C++/指针.md",
     "C++",
