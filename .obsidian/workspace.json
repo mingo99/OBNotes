@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9048c24833cd74bc",
+        "id": "79c0777fbb559963",
         "type": "tabs",
         "children": [
           {
-            "id": "4708629a0ae8fa19",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
-          {
-            "id": "03d4fdae61308bf1",
+            "id": "bb4767e4b8eab18f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,30 +22,19 @@
             }
           },
           {
-            "id": "2033c4cd209499ef",
+            "id": "c09bceec8dfd3750",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Vim/宏.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2025-08-09 11.34.35.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "宏"
-            }
-          },
-          {
-            "id": "0931be836b142029",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-09 11.34.35.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,57 +187,59 @@
       "command-palette:打开命令面板": false,
       "oz-clear-unused-images:Clear Unused Images": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "active": "4708629a0ae8fa19",
+  "active": "c09bceec8dfd3750",
   "lastOpenFiles": [
-    "Git/Cherry Pick.md",
-    "Excalidraw/MTE2.md",
-    "未命名.canvas",
-    "未命名 1.canvas",
-    "Excalidraw",
-    "Git/Git Diff.md",
-    "Git/文件.md",
-    "Git/忽略文件.md",
-    "Git/标签.md",
+    "Obsidian/List styles.md",
+    "Excalidraw/Drawing 2025-08-09 11.34.35.excalidraw.md",
+    "Python/类.md",
+    "Vim/Motion.md",
+    "Vim/Marker.md",
     "Vim/宏.md",
     "Vim/寄存器.md",
-    "Vim/Marker.md",
-    "Vim/Motion.md",
-    "C++/函数.md",
-    "C++/指针.md",
-    "Shell/Source命令.md",
-    "Shell",
-    "C++/C++概览.md",
-    "Git/移除文件.md",
-    "asset",
+    "weread/教育学习/如何阅读一本书.md",
+    "weread/未分类/毛泽东选集（全四卷）.md",
+    "weread/教育学习/公文写作思维方法与实战.md",
+    "weread/未分类/二号首长.md",
+    "weread/未分类/八次危机.md",
+    "weread/男生小说/冬日不曾有暖阳.md",
+    "weread/男生小说/剑来.md",
+    "weread/个人成长/我的外婆，从不内耗.md",
+    "爱的艺术.md",
+    "weread/男生小说/大奉打更人（王鹤棣、田曦薇主演同名电视剧原著）.md",
+    "weread/艺术/摄影笔记.md",
+    "weread/男生小说/从红月开始.md",
+    "weread/文学/鲁迅全集（全20卷）.md",
+    "weread/男生小说/这个人仙太过正经.md",
+    "weread/精品小说/射雕英雄传（套装共4册）纯文字版.md",
+    "weread/文学/人间词话.md",
+    "weread/精品小说/古龙经典：三少爷的剑.md",
+    "weread/文学/红楼梦.md",
+    "weread/精品小说/云边有个小卖部（彭昱畅主演同名电影原著）.md",
+    "weread/计算机",
+    "weread/漫画",
+    "weread/哲学宗教",
+    "weread/教育学习",
+    "weread/艺术",
+    "weread/科学技术",
+    "weread/医学健康",
+    "weread/未分类",
+    "weread/经济理财",
+    "weread/政治军事",
+    "未命名.canvas",
+    "未命名 1.canvas",
     "Pasted image 20240926233652.png",
-    "C++/命名空间.md",
-    "C++/对象和类.md",
-    "Git",
-    "Tools/IDM.md",
-    "Obsidian/List styles.md",
-    "C++/结构体、共用体和枚举.md",
-    "C++/内存模型.md",
-    "未命名.md",
-    "Obsidian",
     "asset/Pasted image 20240906222140.png",
     "asset/Pasted image 20240906222152.png",
     "asset/Pasted image 20240906222746.png",
     "asset/Pasted image 20240906222128.png",
     "asset/Pasted image 20240902230644.png",
-    "2024-09-11.md",
-    "C++",
-    "Tools",
     "Pasted image 20240830215404.png",
-    "Pasted image 20240830.md",
-    "Attach",
-    "新建文件夹",
     "Pasted image 20240830214457.png",
     "Pasted image 20240830214426.png",
-    "Vim/attach/Pasted image 20240830214341.png",
-    "Vim/attach",
-    "Welcome.md"
+    "Vim/attach/Pasted image 20240830214341.png"
   ]
 }

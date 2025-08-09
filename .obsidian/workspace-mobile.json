@@ -11,17 +11,14 @@
             "id": "463660a58efeadd6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名 1.canvas",
-                "viewState": {
-                  "x": 85,
-                  "y": -126,
-                  "zoom": 0
-                }
+                "file": "Git/Cherry Pick.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名 1"
+              "icon": "lucide-file",
+              "title": "Cherry Pick"
             }
           }
         ]
@@ -43,7 +40,7 @@
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
-          "title": "文件列表"
+          "title": "Files"
         }
       },
       {
@@ -87,8 +84,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "2486ff05d749f28d",
@@ -145,36 +141,40 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "lucide-file",
-          "title": "插件不再活动"
+          "icon": "git-pull-request",
+          "title": "Source Control"
         }
       }
     ],
-    "currentTab": 3,
-    "pinned": true
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "463660a58efeadd6",
   "lastOpenFiles": [
+    "Git/忽略文件.md",
+    "Git/标签.md",
+    "C++/内存模型.md",
+    "C++/命名空间.md",
     "C++/对象和类.md",
+    "C++/函数.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "Vim/宏.md",
     "Vim/Motion.md",
     "Vim/寄存器.md",
     "C++/C++概览.md",
-    "C++/内存模型.md",
-    "C++/命名空间.md",
-    "C++/函数.md",
     "Vim/Marker.md",
     "Tools/IDM.md",
     "Obsidian/List styles.md",

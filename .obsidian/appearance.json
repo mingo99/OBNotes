@@ -7,5 +7,6 @@
   "baseFontSize": 15,
   "enabledCssSnippets": [
     "fileicon"
-  ]
+  ],
+  "theme": "system"
 }

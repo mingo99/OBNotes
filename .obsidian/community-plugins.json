@@ -6,5 +6,7 @@
   "oz-clear-unused-images",
   "obsidian-git",
   "obsidian-image-auto-upload-plugin",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-weread-plugin",
+  "editing-toolbar"
 ]
