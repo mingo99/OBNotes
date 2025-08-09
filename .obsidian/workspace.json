@@ -6,6 +6,7 @@
       {
         "id": "79c0777fbb559963",
         "type": "tabs",
+        "dimension": 81.28205128205128,
         "children": [
           {
             "id": "bb4767e4b8eab18f",
@@ -25,16 +26,35 @@
             "id": "c09bceec8dfd3750",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-08-09 11.34.35.excalidraw.md"
+                "file": "Shell/Bash startup order.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-09 11.34.35.excalidraw"
+              "icon": "lucide-file",
+              "title": "Bash startup order"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "2916900903814b83",
+        "type": "tabs",
+        "dimension": 18.71794871794872,
+        "children": [
+          {
+            "id": "48c3301b6185be65",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -58,16 +78,6 @@
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
-            }
-          },
-          {
-            "id": "48c3301b6185be65",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
             }
           },
           {
@@ -97,8 +107,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,8 +202,9 @@
   },
   "active": "c09bceec8dfd3750",
   "lastOpenFiles": [
-    "Obsidian/List styles.md",
     "Excalidraw/Drawing 2025-08-09 11.34.35.excalidraw.md",
+    "Shell/Bash startup order.md",
+    "Obsidian/List styles.md",
     "Python/类.md",
     "Vim/Motion.md",
     "Vim/Marker.md",
@@ -218,7 +228,6 @@
     "weread/文学/人间词话.md",
     "weread/精品小说/古龙经典：三少爷的剑.md",
     "weread/文学/红楼梦.md",
-    "weread/精品小说/云边有个小卖部（彭昱畅主演同名电影原著）.md",
     "weread/计算机",
     "weread/漫画",
     "weread/哲学宗教",
